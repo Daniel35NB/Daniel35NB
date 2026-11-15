@@ -1,13 +1,13 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 700px)" srcset="./assets/hero-mobile.svg">
-    <img src="./assets/hero.svg" alt="Daniel35NB" width="100%">
+    <source media="(max-width: 700px)" srcset="https://cdn.jsdelivr.net/gh/Daniel35NB/Daniel35NB@main/assets/hero-mobile.svg">
+    <img src="https://cdn.jsdelivr.net/gh/Daniel35NB/Daniel35NB@main/assets/hero.svg" alt="Daniel35NB" width="100%">
   </picture>
 </p>
 
 `daniel@35nb` — 写 DSH 插件、鸿蒙 App，和几个自己每天要用的工具。
 
-<img src="./assets/sec-01.svg" alt="01 在写的" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/Daniel35NB/Daniel35NB@main/assets/sec-01.svg" alt="01 在写的" width="100%">
 
 - **[dsh-remote-console](https://github.com/Daniel35NB/dsh-remote-console)** — 手机连电脑上的 DSH：配对、会话、流式、文件、审批。`ArkTS` `Node.js` `DRC/1`<br>
   <sub>PC 插件 + 鸿蒙原生 App · 自测 219/219，真机验收收尾</sub>
@@ -20,15 +20,15 @@
 - **[TokenTracker](https://github.com/Daniel35NB/TokenTracker)** — 本地跑的 token 账本，31 个编码工具。`JavaScript`<br>
   <sub>fork of xiufengsun/TokenTracker</sub>
 
-<img src="./assets/sec-02.svg" alt="02 现在" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/Daniel35NB/Daniel35NB@main/assets/sec-02.svg" alt="02 现在" width="100%">
 
 - **dsh-remote-console** — 补运行中排队、插入消息、会话导出。
 - **DSH 生态** — 成本、审批、远程，一个方向往下做。
 
-<img src="./assets/sec-03.svg" alt="03 用得顺手的" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/Daniel35NB/Daniel35NB@main/assets/sec-03.svg" alt="03 用得顺手的" width="100%">
 
 `Python` `JavaScript` `TypeScript` `Vue` `uni-app` `Node.js` `ArkTS` `Tkinter`
 
 <sub>前端到端上，够用就写。</sub>
 
-<p align="center"><img src="./assets/footer.svg" alt="prompt" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Daniel35NB/Daniel35NB@main/assets/footer.svg" alt="prompt" width="100%"></p>
