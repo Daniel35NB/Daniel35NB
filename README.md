@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 700px)" srcset="./assets/banner-mobile.svg">
-    <img src="./assets/banner.svg" alt="Daniel35NB" width="100%">
+    <source media="(max-width: 700px)" srcset="./assets/hero-mobile.svg">
+    <img src="./assets/hero.svg" alt="Daniel35NB" width="100%">
   </picture>
 </p>
 
