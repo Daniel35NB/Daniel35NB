@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 470" width="720" height="470" role="img" aria-label="Daniel35NB">
+<defs>
+  <clipPath id="mwin"><rect width="720" height="470" rx="14"/></clipPath>
+  <pattern id="mg" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#123A32" stroke-width="1" opacity=".7"/></pattern>
+  <filter id="mglow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="7" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g clip-path="url(#mwin)">
+  <rect width="720" height="470" fill="#05090A"/>
+  <rect width="720" height="470" fill="url(#mg)"/>
+  <rect width="720" height="48" fill="#0A1310"/>
+  <circle cx="26" cy="24" r="6" fill="#FF5F57"/><circle cx="46" cy="24" r="6" fill="#FEBC2E"/><circle cx="66" cy="24" r="6" fill="#28C840"/>
+  <text x="360" y="29" fill="#3C5A50" font-size="13" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">daniel@35nb — zsh</text>
+  <line x1="0" y1="48" x2="720" y2="48" stroke="#123A32"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="40" y="96" fill="#5A7A6E" font-size="15" letter-spacing="1">$ ssh daniel@35nb</text>
+    <text x="40" y="170" fill="#7CFFB2" font-size="58" font-weight="700" filter="url(#mglow)">Daniel35NB</text>
+    <text x="40" y="212" fill="#37F5D5" font-size="17">&gt; 把 agent 接到手机上，</text>
+    <text x="40" y="240" fill="#37F5D5" font-size="17">顺便盯着它别乱花钱</text>
+    <line x1="40" y1="272" x2="680" y2="272" stroke="#123A32" stroke-dasharray="3 6"/>
+    <g font-size="14">
+      <text x="40" y="308" fill="#3C5A50">stack</text><text x="128" y="308" fill="#9DBFAE">TS · Py · ArkTS · Vue</text>
+      <text x="40" y="340" fill="#3C5A50">agent</text><text x="128" y="340" fill="#9DBFAE">DeepSeek Harness</text>
+      <text x="40" y="372" fill="#3C5A50">repos</text><text x="128" y="372" fill="#9DBFAE">6 public · since 2023</text>
+    </g>
+    <text x="40" y="436" fill="#5A7A6E" font-size="12" letter-spacing="1">DSH PLUGINS · HARMONYOS · AGENT TOOLING</text>
+    <text x="680" y="436" fill="#5A7A6E" font-size="12" text-anchor="end" letter-spacing="1">[ 5 REPOS ]</text>
+  </g>
+</g>
+<rect x=".75" y=".75" width="718.5" height="468.5" rx="14" fill="none" stroke="#123A32" stroke-width="1.5"/>
+</svg>

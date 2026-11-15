@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 96" width="1280" height="96" role="img" aria-label="现在">
+<rect x="0" y="8" width="1280" height="78" rx="10" fill="#070D0C" stroke="#123A32" stroke-width="1"/>
+<rect x="0" y="8" width="6" height="78" rx="3" fill="#7CFFB2"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <text x="28" y="60" fill="#7CFFB2" font-size="22" letter-spacing="2" font-weight="700">02</text>
+  <text x="80" y="61" fill="#E6FFF3" font-size="46" letter-spacing="3">// 现在</text>
+  <text x="1252" y="59" fill="#3C5A50" font-size="15" text-anchor="end" letter-spacing="2">ACTIVE</text>
+</g>
+</svg>

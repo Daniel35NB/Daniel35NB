@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 68" width="1280" height="68" role="img" aria-label="prompt">
+<rect x="0" y="4" width="1280" height="56" rx="8" fill="#070D0C" stroke="#123A32" stroke-width="1"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <text x="24" y="40" fill="#7CFFB2" font-size="18" letter-spacing="1">daniel@35nb</text>
+  <text x="148" y="40" fill="#5A7A6E" font-size="18">~ %</text>
+  <rect x="196" y="24" width="10" height="20" fill="#37F5D5">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+  <text x="1256" y="40" fill="#3C5A50" font-size="14" text-anchor="end" letter-spacing="2">大部分是自己要用才写的，所以还能跑</text>
+</g>
+</svg>

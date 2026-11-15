@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Daniel35NB — terminal">
+<defs>
+  <clipPath id="win"><rect x="0" y="0" width="1280" height="340" rx="12"/></clipPath>
+  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#123A32" stroke-width="1" opacity=".7"/>
+  </pattern>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="9" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#7CFFB2" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#7CFFB2" stop-opacity=".09"/>
+    <stop offset="1" stop-color="#7CFFB2" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="type"><rect x="62" y="204" width="0" height="34">
+    <animate attributeName="width" from="0" to="810" dur="3.1s" begin=".9s" fill="freeze"/></rect></clipPath>
+</defs>
+<g clip-path="url(#win)">
+  <rect width="1280" height="340" fill="#05090A"/>
+  <rect width="1280" height="340" fill="url(#g)"/>
+  <rect width="1280" height="46" fill="#0A1310"/>
+  <circle cx="28" cy="23" r="6.5" fill="#FF5F57"/><circle cx="50" cy="23" r="6.5" fill="#FEBC2E"/><circle cx="72" cy="23" r="6.5" fill="#28C840"/>
+  <text x="640" y="28" fill="#3C5A50" font-size="13" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1">daniel@35nb — ~/profile — zsh</text>
+  <text x="1252" y="28" fill="#3C5A50" font-size="13" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">1280×340</text>
+  <line x1="0" y1="46" x2="1280" y2="46" stroke="#123A32" stroke-width="1"/>
+  <rect x="0" y="-120" width="1280" height="120" fill="url(#scan)">
+    <animate attributeName="y" from="-120" to="340" dur="7.5s" repeatCount="indefinite"/></rect>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="62" y="88" fill="#5A7A6E" font-size="17" letter-spacing="2">$ ssh daniel@35nb --profile</text>
+    <text x="62" y="186" fill="#7CFFB2" font-size="96" font-weight="700" filter="url(#glow)">Daniel35NB
+      <animate attributeName="opacity" values="1;.93;1" dur="4.5s" repeatCount="indefinite"/></text>
+    <g clip-path="url(#type)" fill="#37F5D5" font-size="23" letter-spacing="1">
+      <text x="64" y="232">&gt; 把 agent 接到手机上，顺便盯着它别乱花钱</text></g>
+    <text x="62" y="306" fill="#5A7A6E" font-size="14" letter-spacing="2">DSH PLUGINS · HARMONYOS · AGENT TOOLING</text>
+    <text x="1218" y="306" fill="#5A7A6E" font-size="14" text-anchor="end" letter-spacing="2">[ 5 REPOS ]</text>
+    <g font-size="15" letter-spacing="1">
+      <text x="772" y="118" fill="#3C5A50">host</text><text x="864" y="118" fill="#9DBFAE">daniel@35nb</text>
+      <text x="772" y="152" fill="#3C5A50">stack</text><text x="864" y="152" fill="#9DBFAE">TS · Py · ArkTS · Vue</text>
+      <text x="772" y="186" fill="#3C5A50">agent</text><text x="864" y="186" fill="#9DBFAE">DeepSeek Harness</text>
+      <text x="772" y="220" fill="#3C5A50">repos</text><text x="864" y="220" fill="#9DBFAE">6 public</text>
+      <text x="772" y="254" fill="#3C5A50">since</text><text x="864" y="254" fill="#9DBFAE">2023 <tspan fill="#3C5A50">· still running</tspan></text>
+    </g>
+    <line x1="772" y1="94" x2="1218" y2="94" stroke="#123A32" stroke-width="1"/>
+    <line x1="772" y1="272" x2="1218" y2="272" stroke="#123A32" stroke-width="1"/>
+  </g>
+</g>
+<rect x=".75" y=".75" width="1278.5" height="338.5" rx="12" fill="none" stroke="#123A32" stroke-width="1.5"/>
+</svg>
